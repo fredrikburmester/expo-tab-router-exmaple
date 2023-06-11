@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo-tab-router-exmaple",
+    "slug": "expo-tab-router-exmaple"
+  }
+}
